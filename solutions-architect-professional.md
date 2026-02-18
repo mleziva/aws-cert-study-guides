@@ -2,6 +2,9 @@
 
 I passed the AWS Solutions Architect Professional Exam 10/2025. Topics may have changed since then, but I focused on the following areas when studying for the exam. 
 
+Last updated date: 2/18/2026   
+
+
 # AWS 
 
 ## security 
